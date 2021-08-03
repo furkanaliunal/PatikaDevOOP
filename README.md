@@ -4,13 +4,13 @@ Bu repo [Patika](patika.dev) OOP eğitimi için hazırlamış olduğum repo. UML
 
 | ÖDEVLER |  |  |
 |-----|-----|-----|
-| [ÖDEV 1](a/sd) - Üniversite Yönetim Sistemi | [ÖDEV 2]() - Eklenecek | [ÖDEV 3]() - Eklenecek
+| [ÖDEV 1](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-1---%C3%BCniversite-y%C3%B6netim-sistemi) - Üniversite Yönetim Sistemi | [ÖDEV 2]() - Eklenecek | [ÖDEV 3]() - Eklenecek
 
 
 
 ---
 
-## [📖 Ödev 1 - Üniversite Yönetim Sistemi](#)
+## [📖 Ödev 1 - Üniversite Yönetim Sistemi](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-1---%C3%BCniversite-y%C3%B6netim-sistemi)
 Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 Departmanlara ait ofisler vardır.
 Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
