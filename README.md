@@ -1,6 +1,6 @@
 # PatikaDevOOP
 
-Bu repo [Patika](patika.dev) OOP eğitimi için hazırlamış olduğum repo. UML ve OOP Java ödevlerimin soru ve cevaplarını içeriyor.
+Bu repo [Patika](https://patika.dev) OOP eğitimi için hazırlamış olduğum repo. UML ve OOP Java ödevlerimin soru ve cevaplarını içeriyor.
 
 | ÖDEVLER |  |  |
 |-----|-----|-----|
