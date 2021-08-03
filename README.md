@@ -10,7 +10,7 @@ Bu repo [Patika](patika.dev) OOP eğitimi için hazırlamış olduğum repo. UML
 
 ---
 
-## [📖 Ödev 1 - Üniversite Yönetim Sistemi](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-1---%C3%BCniversite-y%C3%B6netim-sistemi)
+## [📖 Ödev 1 - Üniversite Yönetim Sistemi](#)
 Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 Departmanlara ait ofisler vardır.
 Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
