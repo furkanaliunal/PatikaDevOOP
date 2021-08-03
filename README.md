@@ -4,7 +4,7 @@ Bu repo [Patika](https://patika.dev) OOP eğitimi için hazırlamış olduğum r
 
 | ÖDEVLER |  |  |
 |-----|-----|-----|
-| [ÖDEV 1](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-1---%C3%BCniversite-y%C3%B6netim-sistemi) - Üniversite Yönetim Sistemi | [ÖDEV 2](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-2---hayvanat-bah%C3%A7esi) - Hayvanat Bahçesi | [ÖDEV 3]() - Eklenecek
+| [ÖDEV 1](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-1---%C3%BCniversite-y%C3%B6netim-sistemi) - Üniversite Yönetim Sistemi | [ÖDEV z](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-2---hayvanat-bah%C3%A7esi) - Hayvanat Bahçesi | [ÖDEV 3]() - Uçuş Yönetim Sistemi
 
 
 
@@ -24,6 +24,9 @@ Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
   
 ![soru1](src/1.png)
 </details>
+
+
+---
 
 
 ## [📖 Ödev 2 - Hayvanat Bahçesi](#-%C3%B6dev-2---hayvanat-bah%C3%A7esi)
@@ -50,6 +53,36 @@ Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bi
 <summary>Cevabı görmek için tıkla.</summary>
   
 ![soru1](src/2.png)
+</details>
+
+
+---
+
+
+## [📖 Ödev 3 - Uçuş Yönetim Sistemi](#-%C3%B6dev-2---hayvanat-bah%C3%A7esi)
+Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
+
+- Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.
+
+- Hava yolu şirketi, farklı tipteki uçaklara sahiptir.
+
+- Uçaklar çalışır veya onarım durumunda olabilir.
+
+- Her uçuşun benzersiz kimliği, kalkacağı ve ineceği havaalanı, kalkış ve iniş saatleri vardır.
+
+- Her uçuşun bir pilotu ve yardımcı pilotu vardır ve uçağı kullanırlar.
+
+- Havaalanlarının benzersiz kimlikleri ve isimleri vardır.
+
+- Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur.
+
+- Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
+
+Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
+<details>
+<summary>Cevabı görmek için tıkla.</summary>
+  
+![soru1](src/3.png)
 </details>
 
 
