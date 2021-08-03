@@ -4,7 +4,7 @@ Bu repo [Patika](https://patika.dev) OOP eğitimi için hazırlamış olduğum r
 
 | ÖDEVLER |  |  |
 |-----|-----|-----|
-| [ÖDEV 1](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-1---%C3%BCniversite-y%C3%B6netim-sistemi) - Üniversite Yönetim Sistemi | [ÖDEV 2](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-2---Hayvanat-Bahçesi) - Hayvanat Bahçesi | [ÖDEV 3]() - Eklenecek
+| [ÖDEV 1](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-1---%C3%BCniversite-y%C3%B6netim-sistemi) - Üniversite Yönetim Sistemi | [ÖDEV 2](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-2---hayvanat-bah%C3%A7esi) - Hayvanat Bahçesi | [ÖDEV 3]() - Eklenecek
 
 
 
