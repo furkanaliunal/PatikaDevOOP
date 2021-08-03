@@ -10,7 +10,7 @@ Bu repo [Patika](https://patika.dev) OOP eğitimi için hazırlamış olduğum r
 
 ---
 
-## [📖 Ödev 1 - Üniversite Yönetim Sistemi](#)
+## [📖 Ödev 1 - Üniversite Yönetim Sistemi](#-%C3%B6dev-1---%C3%BCniversite-y%C3%B6netim-sistemi)
 Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 Departmanlara ait ofisler vardır.
 Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
@@ -26,7 +26,7 @@ Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 </details>
 
 
-## [📖 Ödev 2 - Hayvanat Bahçesi](#)
+## [📖 Ödev 2 - Hayvanat Bahçesi](#-%C3%B6dev-2---hayvanat-bah%C3%A7esi)
 Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz.
 
 Hayvanlar:
