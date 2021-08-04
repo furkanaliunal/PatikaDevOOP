@@ -4,9 +4,8 @@ Bu repo [Patika](https://patika.dev) OOP eğitimi için hazırlamış olduğum r
 
 | ÖDEVLER |  |  |
 |-----|-----|-----|
-| [ÖDEV 1](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-1---%C3%BCniversite-y%C3%B6netim-sistemi) - Üniversite Yönetim Sistemi | [ÖDEV z](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-2---hayvanat-bah%C3%A7esi) - Hayvanat Bahçesi | [ÖDEV 3](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-3---u%C3%A7u%C5%9F-y%C3%B6netim-sistemi) - Uçuş Yönetim Sistemi
-
-
+| [ÖDEV 1](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-1---%C3%BCniversite-y%C3%B6netim-sistemi) - Üniversite Yönetim Sistemi | [ÖDEV 2](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-2---hayvanat-bah%C3%A7esi) - Hayvanat Bahçesi | [ÖDEV 3](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-3---u%C3%A7u%C5%9F-y%C3%B6netim-sistemi) - Uçuş Yönetim Sistemi
+| [ÖDEV 4](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-1---%C3%BCniversite-y%C3%B6netim-sistemi) - Online Film Sitesi | [ÖDEV 5](#) - Girilecek | [ÖDEV 6](#) - Girilecek
 
 ---
 
@@ -83,6 +82,32 @@ Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 <summary>Cevabı görmek için tıkla.</summary>
   
 ![soru1](src/3.png)
+</details>
+
+
+
+---
+
+
+## [📖 Ödev 4 - Online Film Sitesi](#-%C3%B6dev-3---u%C3%A7u%C5%9F-y%C3%B6netim-sistemi)
+
+- Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
+
+- Uygulamada filmler listelenebilir, sıralanabilir ve kullanıcılar uygulamaya abone olabilir.
+
+- Kullanıcılar abonelik için sistem üzerinden kredi satın alır.
+
+- Sadece abone olan kullanıcılar, kredileri ile film kiralayabilir ve kiraladığı filmin kredi bedeli kadar hesabından düşülür.
+
+- Normal kullanıcılar ve aboneler film satın alabilirler.
+
+- Eğer film mevcut değil ise talep edilebilir.
+
+- Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
+<details>
+<summary>Cevabı görmek için tıkla.</summary>
+  
+![soru1](src/4.png)
 </details>
 
 
