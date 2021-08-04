@@ -4,7 +4,7 @@ Bu repo [Patika](https://patika.dev) OOP eğitimi için hazırlamış olduğum r
 
 | ÖDEVLER |  |  |
 |-----|-----|-----|
-| [ÖDEV 1](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-1---%C3%BCniversite-y%C3%B6netim-sistemi) - Üniversite Yönetim Sistemi | [ÖDEV z](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-2---hayvanat-bah%C3%A7esi) - Hayvanat Bahçesi | [ÖDEV 3]() - Uçuş Yönetim Sistemi
+| [ÖDEV 1](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-1---%C3%BCniversite-y%C3%B6netim-sistemi) - Üniversite Yönetim Sistemi | [ÖDEV z](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-2---hayvanat-bah%C3%A7esi) - Hayvanat Bahçesi | [ÖDEV 3](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-3---u%C3%A7u%C5%9F-y%C3%B6netim-sistemi) - Uçuş Yönetim Sistemi
 
 
 
@@ -59,7 +59,7 @@ Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bi
 ---
 
 
-## [📖 Ödev 3 - Uçuş Yönetim Sistemi](#-%C3%B6dev-2---hayvanat-bah%C3%A7esi)
+## [📖 Ödev 3 - Uçuş Yönetim Sistemi](#-%C3%B6dev-3---u%C3%A7u%C5%9F-y%C3%B6netim-sistemi)
 Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 
 - Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.
