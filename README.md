@@ -5,11 +5,18 @@ Bu repo [Patika](https://patika.dev) OOP eğitimi için hazırlamış olduğum r
 | ÖDEVLER |  |  |
 |-----|-----|-----|
 | [ÖDEV 1](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-1---%C3%BCniversite-y%C3%B6netim-sistemi) - Üniversite Yönetim Sistemi | [ÖDEV 2](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-2---hayvanat-bah%C3%A7esi) - Hayvanat Bahçesi | [ÖDEV 3](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-3---u%C3%A7u%C5%9F-y%C3%B6netim-sistemi) - Uçuş Yönetim Sistemi
-| [ÖDEV 4](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-1---%C3%BCniversite-y%C3%B6netim-sistemi) - Online Film Sitesi | [ÖDEV 5](#) - Girilecek | [ÖDEV 6](#) - Girilecek
+| [ÖDEV 4](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-4---online-film-sitesi) - Online Film Sitesi | [ÖDEV 5](#) - Girilecek | [ÖDEV 6](#) - Girilecek
 
 ---
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## [📖 Ödev 1 - Üniversite Yönetim Sistemi](#-%C3%B6dev-1---%C3%BCniversite-y%C3%B6netim-sistemi)
+<p>&nbsp;</p>
+
 Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 Departmanlara ait ofisler vardır.
 Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
@@ -25,13 +32,26 @@ Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 </details>
 
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 ---
 
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 ## [📖 Ödev 2 - Hayvanat Bahçesi](#-%C3%B6dev-2---hayvanat-bah%C3%A7esi)
+<p>&nbsp;</p>
+
 Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz.
+<p></p>
+
 
 Hayvanlar:
+
 - Atlar (atlar, zebralar, eşekler vb.),
 - Kedigiller (kaplanlar, aslanlar vb.),
 - Kemirgenler (sıçanlar, kunduzlar vb.) gibi gruplardaki türlerle karakterize edilir.
@@ -55,11 +75,22 @@ Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bi
 </details>
 
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 ---
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## [📖 Ödev 3 - Uçuş Yönetim Sistemi](#-%C3%B6dev-3---u%C3%A7u%C5%9F-y%C3%B6netim-sistemi)
+<p>&nbsp;</p>
+
 Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
+<p></p>
+
 
 - Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.
 
@@ -85,13 +116,22 @@ Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 </details>
 
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ---
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 
 ## [📖 Ödev 4 - Online Film Sitesi](#-%C3%B6dev-3---u%C3%A7u%C5%9F-y%C3%B6netim-sistemi)
+<p>&nbsp;</p>
 
-- Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
+### Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
+<p></p>
 
 - Uygulamada filmler listelenebilir, sıralanabilir ve kullanıcılar uygulamaya abone olabilir.
 
