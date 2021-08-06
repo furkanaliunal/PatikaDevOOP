@@ -71,7 +71,7 @@ Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bi
 <details>
 <summary>Cevabı görmek için tıkla.</summary>
   
-![soru1](src/2.png)
+![soru2](src/2.png)
 </details>
 
 
@@ -112,7 +112,7 @@ Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 <details>
 <summary>Cevabı görmek için tıkla.</summary>
   
-![soru1](src/3.png)
+![soru3](src/3.png)
 </details>
 
 
@@ -147,7 +147,9 @@ Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 <details>
 <summary>Cevabı görmek için tıkla.</summary>
   
-![soru1](src/4.png)
+![soru4](src/4.png)
+
+Diyagramın kodlarına ulaşmak isterseniz [tıklayabilirsiniz](https://github.com/furkanaliunal/PatikaOOP-OnlineFilmSirketi-in-Java-)
 </details>
 
 
