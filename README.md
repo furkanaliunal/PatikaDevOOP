@@ -5,7 +5,7 @@ Bu repo [Patika](https://patika.dev) OOP eğitimi için hazırlamış olduğum r
 | ÖDEVLER |  |  |
 |-----|-----|-----|
 | [ÖDEV 1](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-1---%C3%BCniversite-y%C3%B6netim-sistemi) - Üniversite Yönetim Sistemi | [ÖDEV 2](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-2---hayvanat-bah%C3%A7esi) - Hayvanat Bahçesi | [ÖDEV 3](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-3---u%C3%A7u%C5%9F-y%C3%B6netim-sistemi) - Uçuş Yönetim Sistemi
-| [ÖDEV 4](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-4---online-film-sitesi) - Online Film Sitesi | [ÖDEV 5](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-5---asans%C3%B6r-sim%C3%BClasyonu) - Asansör Simülasyonu | [ÖDEV 6](#) - Girilecek
+| [ÖDEV 4](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-4---online-film-sitesi) - Online Film Sitesi | [ÖDEV 5](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-5---asans%C3%B6r-sim%C3%BClasyonu) - Asansör Simülasyonu |
 
 ---
 <p>&nbsp;</p>
@@ -176,7 +176,7 @@ Simülatör, gerçek zaman geçişini simüle etmek ve simülasyonda meydana gel
 <details>
 <summary>Cevabı görmek için tıkla.</summary>
   
-![soru4](src/5.png)
+![soru5](src/5.png)
 
 </details>
 
