@@ -5,7 +5,7 @@ Bu repo [Patika](https://patika.dev) OOP eğitimi için hazırlamış olduğum r
 | ÖDEVLER |  |  |
 |-----|-----|-----|
 | [ÖDEV 1](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-1---%C3%BCniversite-y%C3%B6netim-sistemi) - Üniversite Yönetim Sistemi | [ÖDEV 2](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-2---hayvanat-bah%C3%A7esi) - Hayvanat Bahçesi | [ÖDEV 3](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-3---u%C3%A7u%C5%9F-y%C3%B6netim-sistemi) - Uçuş Yönetim Sistemi
-| [ÖDEV 4](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-4---online-film-sitesi) - Online Film Sitesi | [ÖDEV 5](#) - Girilecek | [ÖDEV 6](#) - Girilecek
+| [ÖDEV 4](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-4---online-film-sitesi) - Online Film Sitesi | [ÖDEV 5](https://github.com/furkanaliunal/PatikaDevOOP#-%C3%B6dev-5---asans%C3%B6r-sim%C3%BClasyonu) - Asansör Simülasyonu | [ÖDEV 6](#) - Girilecek
 
 ---
 <p>&nbsp;</p>
@@ -153,14 +153,14 @@ Diyagramın kodlarına ulaşmak isterseniz [tıklayabilirsiniz](https://github.c
 
 
 
-## [📖 Ödev 5 - Asansör Simülasyonu](#-%C3%B6dev-4---online-film-sites)
+## [📖 Ödev 5 - Asansör Simülasyonu](#-%C3%B6dev-5---asans%C3%B6r-sim%C3%BClasyonu)
 <p>&nbsp;</p>
 
 ### Asansör Simülasyonu
 
 <p></p>
 
-    Aşağıdaki problem ifadesine göre bir sınıf diyagramı tasarlayın. Nesne Yönelimli Programlamanın ilkelerini ve sınıflar arası ilişki durumlarını kullanmaya çalışın. (Encapsulation, Inheritance, Polymorphism, Abstraction)
+Aşağıdaki problem ifadesine göre bir sınıf diyagramı tasarlayın. Nesne Yönelimli Programlamanın ilkelerini ve sınıflar arası ilişki durumlarını kullanmaya çalışın. (Encapsulation, Inheritance, Polymorphism, Abstraction)
 
 - Kodluyoruz Sigorta Şirketi 12 katlı bir ofis binası inşa etmek ve onu en son asansör teknolojisi ile donatmak istiyor. Şirket, bina içindeki trafik akışı ihtiyaçlarını karşılayıp karşılamayacaklarını görmek için binanın asansörlerinin işlemlerini modelleyen bir yazılım simülatörü oluşturmanızı istiyor.
 
